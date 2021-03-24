@@ -147,7 +147,7 @@ THE SOFTWARE.
         <dependency>
             <groupId>org.jenkins-ci.plugins.workflow</groupId>
             <artifactId>workflow-cps-global-lib</artifactId>
-            <version>2.17</version> <!-- TODO: Remove after https://github.com/jenkinsci/bom/pull/278 is released. -->
+            <version>2.18</version> <!-- TODO: Remove after https://github.com/jenkinsci/bom/pull/278 is released. -->
             <scope>test</scope>
         </dependency>
         <dependency>
